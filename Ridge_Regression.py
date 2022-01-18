@@ -25,7 +25,7 @@ class Ridge:
         self.w_label = w_label
 
     def read_file(self, filename):
-        # read file with fiven filename and return nparray format
+        # read file with given filename and return nparray format
         # parameter lists:
         # ------------------------------------------------------
         # filename: path of the file to read
